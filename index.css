@@ -1,0 +1,169 @@
+.carousel-caption{
+	text-align: center;
+	top: 35%;
+}
+.btn{
+	color: green;
+	background-color: white;
+	padding: 9px 30px;
+}
+.padding{
+	padding-top: 105px;
+}
+.navbar{
+	background-color: #ffffff00;
+}
+.t1{
+    font-family: 'Fuggles', cursives;
+}
+.t1 h3{
+    font-size: 55px;
+}
+.color{
+	color: white;
+	padding-left: 10px;
+	word-spacing: 5px;
+	background-color: #170502;
+	font-size: larger;
+}
+.pading{
+	padding-left: 5px;
+}
+.container{
+	padding-bottom: 300px;
+}
+.class{
+	padding-left: 600px;
+}
+.icons{
+	padding-left: 20px;
+}
+hr.new3 {
+  border-top:2px dotted white;
+  padding-top: 0%;
+  padding-bottom: 0%;
+  background-color: black;
+}
+.nav{
+	color: white;
+	padding-left: 800px;
+	background-color: #170502;
+	font-size: large;
+	word-spacing: 15px;
+}
+.u2{
+	padding-left: 15px;
+}
+.u3{
+	text-decoration-color: white;
+}
+.card{
+	border: none;
+	padding-left: 120px;
+	padding-top: 60px;
+	padding-right:90px;
+}
+.img {
+  width: 300px;
+  height: 300px;
+  object-fit: fill;
+}
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+.cal{
+	word-spacing: 10px;
+}
+.admin{
+	padding-left: 20px;
+}
+.card-title{
+	text-decoration-color: green;
+}
+.card1{
+	color: #06A72C;
+	font-style: bold;
+	font-size: large;
+}
+.dropdown{
+	background-color: #ffffff00;
+	color: white;
+	border: none;
+}
+.drop{
+	color: black;
+}
+.opening{
+	background-color:  #06A72C ;
+	color: blue;
+	padding-left: 30px;
+
+}
+.vl {
+  border-left: 3px solid red;
+  height: 100px;
+  position: absolute;
+  left: 50%;
+}
+.heading{
+	padding-top: 50px;
+}
+.left{
+	padding-left: 600px;
+}
+.bg{
+	background-color: black;
+	color: green;
+}
+.u3{
+	color: green;
+}
+.u4{
+	background-color: black;
+}
+/*opening hours */
+div .hour{
+    margin-left: 12px;
+    margin-bottom: 20px;
+}
+
+.part3{
+    color:black;
+    background-color: rgba(18, 168, 78, 255);
+    padding-top: 13px;
+}
+.part3 div{
+    display: inline-block;
+    text-align: center;
+    color:white;
+    font-size: 15px;
+    margin-left: 100px;
+}
+.part3 p{
+    display: block;
+}
+.hour{
+    position: relative;
+    font-size: 22px;
+    bottom: 15px;
+}
+.days{
+    padding: 10px;
+    margin-left: 100px;
+}
+.days div{
+    margin-left: 10px;    
+}
+.days .boxstyle{
+    border-left: 1px solid white;
+    padding-left: 9px;
+}
+/* footer */
+.footer article{
+    color: black;
+    font-size: 13px;
+    padding: 10px 0 10px 0;
+    text-align: center;
+}
